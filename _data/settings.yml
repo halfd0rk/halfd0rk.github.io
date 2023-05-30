@@ -62,15 +62,15 @@ social_settings:
   linkedin_url: ''
 
 color_settings:
-  background_color: '#AEF78E'
+  background_color: '#EFF7F6'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#4C5760'
-  text_medium_color: '#66635B'
-  text_light_color: '#93A8AC'
-  accent_color: '#F9C784'
+  text_dark_color: '#424B54'
+  text_medium_color: '#4C934C'
+  text_light_color: '#91CB3E'
+  accent_color: '#7BDFF2'
   border_color: '#00ff08'
   hero_background_color: '#191A19'
-  hero_text_color: '#D8E9A8'
+  hero_text_color: '#7BDFF2'
   error_color: '#D64541'
 
 font_settings:
