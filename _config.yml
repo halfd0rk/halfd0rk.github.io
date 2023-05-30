@@ -1,7 +1,7 @@
 site: Halfd0rk
 
 url: https://halfd0rk.github.io/
-baseurl: https://halfd0rk.github.io/
+baseurl: 
 
 collections:
   pages:
