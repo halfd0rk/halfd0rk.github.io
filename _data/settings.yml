@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Personal
+  site_title: Halfd0rk
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -64,26 +64,14 @@ social_settings:
 color_settings:
   background_color: '#382933'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#A4B494'
-  text_medium_color: '#A4B494'
-  text_light_color: '#A4B494'
-  accent_color: '#rgb(81, 152, 114)'
-  border_color: '#rgb(59, 82, 73)'
+  text_dark_color: '#2A2F36'
+  text_medium_color: '#6C7A89'
+  text_light_color: '#ABB7B7'
+  accent_color: '#3498db'
+  border_color: '#dddddd'
   hero_background_color: '#132930'
   hero_text_color: '#ffffff'
   error_color: '#D64541'
-
-#color_settings:
-  #background_color: '#ffffff'
-  #background_alt_color: '#f4f5f6'
-  #text_dark_color: '#2A2F36'
-  #text_medium_color: '#6C7A89'
-  #text_light_color: '#ABB7B7'
-  #accent_color: '#3498db'
-  #border_color: '#dddddd'
-  #hero_background_color: '#132930'
-  #hero_text_color: '#ffffff'
-  #error_color: '#D64541'
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Muli:300,400,600,700" rel="stylesheet">'
