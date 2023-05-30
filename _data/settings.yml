@@ -64,13 +64,13 @@ social_settings:
 color_settings:
   background_color: '#191A19'
   background_alt_color: '#f4f5f6'
-  text_dark_color: '#1E5128'
+  text_dark_color: '#D8E9A8'
   text_medium_color: '#4E9F3D'
-  text_light_color: '#D8E9A8'
+  text_light_color: '#1E5128'
   accent_color: '#3498db'
   border_color: '#dddddd'
   hero_background_color: '#132930'
-  hero_text_color: '#ffffff'
+  hero_text_color: '#16FF00'
   error_color: '#D64541'
 
 font_settings:
