@@ -1,7 +1,7 @@
 ---
 title: About me
-subtitle: Personal is the perfect theme for developers, designers and other creatives.
-description: Personal is the perfect theme for developers, designers and other creatives.
+subtitle: Who is this dork?
+description: Learn more about Halfd0rk.
 featured_image: /images/demo/about.jpg
 ---
 
