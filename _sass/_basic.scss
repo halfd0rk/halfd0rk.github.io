@@ -203,6 +203,13 @@ a {
 		color: $accent-color;
 	}
 }
+/*Ko-fi widget*/
+#centered-widget {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh; /* Adjust as needed */
+  }
 
 .button {
 	display: inline-block;
