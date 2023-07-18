@@ -25,7 +25,7 @@ layout: default
 
 			{{ page.content }}
 			{% capture amazon %}{{ content | has_amazon }}{% endcapture %}
-			{% if amazon == 'true' %}{% include custom/amazon_affiliate.html %}{% endif %}
+			{% if amazon == 'true' %}{% include amazon_affiliate.html %}{% endif %}
 
 		</article>
 

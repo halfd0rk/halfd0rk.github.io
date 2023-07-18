@@ -20,6 +20,17 @@ body {
 	color: $text-medium-color;
 }
 
+// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - amazon_affiliates
+//https://brettterpstra.com/2019/03/05/amazon-affiliates-and-automated-contextual-snippets-in-jekyll/
+
+p.disclosure {
+	font-size: .75em;
+	background: #efefef;
+	padding: 1em;
+	font-style: italic;
+	border: dotted 3px #ccc;
+	border-radius: 10px;
+  }
 
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
