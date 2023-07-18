@@ -1,2 +1,2 @@
 ---
-BUNDLE_LOCAL__AMAZON_AFFILIATE: "/_plugins/amazon_affiliate"
+BUNDLE_LOCAL__AMAZON_AFFILIATE: "~/_plugins/amazon_affiliate"
