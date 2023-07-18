@@ -1,1 +1,1 @@
-<a href="https://www.amazon.com/shop/halfd0rk" class="button button--light" target="_blank">halfd0rk.com is participating in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means to earn fees when linking to Amazon.com and affiliated sites.</a>
+<a href="https://www.amazon.com/shop/halfd0rk" class="button button--light" target="_blank">halfd0rk is participating in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide commissions when linking to Amazon.com and affiliated sites.</a>
