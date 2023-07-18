@@ -51,8 +51,7 @@ sass:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - amazon_affiliate.rb
-
+  
 paginate: 6
 paginate_path: "/blog/page:num/"
   

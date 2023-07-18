@@ -24,9 +24,7 @@ layout: default
 		<article class="single-post">
 
 			{{ page.content }}
-			{% capture amazon %}{{ content | has_amazon }}{% endcapture %}
-			{% if amazon == 'true' %}{% include amazon_affiliate.html %}{% endif %}
-
+			
 		</article>
 
 	</div>
