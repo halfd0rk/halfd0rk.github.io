@@ -142,14 +142,6 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 // - - - - - - - - - - Section styles
 
 @import "_includes/_listing";
+@import "_includes/_amazon-affiliate";
+@import "_includes/_videos";
 @import "_includes/_hero";
-
-
-p.disclosure {
-    font-size: .75em;
-    background: #efefef;
-    padding: 1em;
-    font-style: italic;
-    border: dotted 3px #ccc;
-    border-radius: 10px;
-  }
