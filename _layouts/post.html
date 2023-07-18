@@ -28,5 +28,6 @@ layout: default
 		</article>
 
 	</div>
-
+	{% capture amazon %}{{ content | has_amazon }}{% endcapture %}
+	{% if amazon == 'true' %}{% include custom/amazon_affiliate.html %}{% endif %}
 </section>

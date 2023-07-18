@@ -10,14 +10,14 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
+    - title: 'Devlog'
       url: '/blog/'
-    - title: 'About'
+    - title: 'The Sandbox'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Links'
+      url: '/links'
+    - title: 'About'
       url: '/contact'
-    - title: 'Wiki'
-      url: '/Game-Makers-Wiki'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.

@@ -13,11 +13,6 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-    
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
 
 defaults:
   -
