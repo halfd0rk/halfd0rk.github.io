@@ -3,9 +3,9 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">halfd0rk devlog</h1>
+    <h1 align="center">halfd0rk blog</h1>
     <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">link to my devlog!</a></strong>   <strong><a href="https://just-the-docs.github.io/just-the-docs/">link to my patreon!</a></strong></p>
+    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">link to my blog!</a></strong>   <strong><a href="https://just-the-docs.github.io/just-the-docs/">link to my patreon!</a></strong></p>
     <br><br><br>
 </p>
 ## Not what you're looking for?
