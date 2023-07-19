@@ -270,6 +270,81 @@ a {
 	}
 }
 
+.button--facebook {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #227cf0 !important;
+	border-color: #227cf0 !important;
+	color: $background-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--instagram {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #e75469 !important;
+	border-color: #e75469 !important;
+	color: $text-dark-color;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--patreon {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #ff6d5a !important;
+	border-color: #ff6d5a !important;
+	color: $text-dark-color;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--discord {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #5d6feb !important;
+	border-color: #5d6feb !important;
+	color: $background-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
 .button--tiktok {
 	padding: 15px 20px 16px;
 	font-size: 13px;
