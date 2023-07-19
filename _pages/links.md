@@ -9,7 +9,8 @@ featured_image: /images/demo/about.jpg
 
 We've packed Personal full of powerful features to help showcase your work:
 
-* link
+<a href="https://twitter.com/halfd0rk" class="button button--large" background: #33ecff;>Twitter</a>
+
 * link
 * link
 * link
