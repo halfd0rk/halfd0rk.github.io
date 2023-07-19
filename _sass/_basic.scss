@@ -273,12 +273,13 @@ a {
 .button--twitter {
 	padding: 15px 20px 16px;
 	font-size: 13px;
+	background: #33ecff !important;
 	border-color: #33ecff !important;
-	color: #1F2421 !important;
+	color: $text-dark-color;
 
 	&:hover {
-		background: #33ecff !important;
-		border-color: #33ecff !important;
+		background: $accent-color;
+		border-color: $accent-color;
 		color: $background-color;
 	}
 
