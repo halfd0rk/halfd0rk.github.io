@@ -9,8 +9,9 @@ featured_image: /images/demo/about.jpg
 
 We've packed Personal full of powerful features to help showcase your work:
 
-<a href="https://twitter.com/halfd0rk" class="button button--large" background= "#33ecff";>Twitter</a>
-<a href="https://www.twitch.tv/halfd0rk" class="button button--large" background= "#a233ff";>Twitch</a>
+<a href="https://twitter.com/halfd0rk" class="button button--twitter";>Twitter</a>
+
+<a href="https://www.twitch.tv/halfd0rk" class="button button--twitch";>Twitch</a>
 * link
 * link
 * link

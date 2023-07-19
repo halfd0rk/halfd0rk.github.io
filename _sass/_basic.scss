@@ -270,6 +270,28 @@ a {
 	}
 }
 
+.button--twitter {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #33ecff;
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--twitch {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #a233ff;
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
 .button--light {
 	background: transparent;
 	border-color: $text-dark-color;
