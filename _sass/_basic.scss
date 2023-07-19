@@ -273,8 +273,15 @@ a {
 .button--twitter {
 	padding: 15px 20px 16px;
 	font-size: 13px;
-	background: #33ecff !important;
+	background: #1F2421 !important;
+	border-color: #33ecff !important;
 	color: #33ecff !important;
+
+	&:hover {
+		background: $accent-color;
+		border-color: $accent-color;
+		color: $background-color;
+	}
 
 	@include mq(tabletp) {
 		padding: 19px 40px 20px;
