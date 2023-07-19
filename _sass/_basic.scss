@@ -24,10 +24,16 @@ body {
 
 .floatr {
     float: right;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .floatl {
     float: left;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
