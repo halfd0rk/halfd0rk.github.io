@@ -270,16 +270,16 @@ a {
 	}
 }
 
-.button--twitter {
+.button--tiktok {
 	padding: 15px 20px 16px;
 	font-size: 13px;
-	background: #33ecff !important;
-	border-color: #33ecff !important;
-	color: $text-dark-color;
+	background: #1F2421 !important;
+	border-color: #1F2421 !important;
+	color: $background-color !important;
 
 	&:hover {
-		background: $accent-color;
-		border-color: $accent-color;
+		background: $accent-color !important;
+		border-color: $accent-color !important;
 		color: $background-color;
 	}
 
@@ -298,7 +298,45 @@ a {
 
 	&:hover {
 		background: $accent-color !important;
-		border-color: #70A12B !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--twitter {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #33ecff !important;
+	border-color: #33ecff !important;
+	color: $text-dark-color;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--youtube {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #d30000 !important;
+	border-color: #d30000 !important;
+	color: $text-dark-color;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
 		color: $background-color;
 	}
 
