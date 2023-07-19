@@ -26,4 +26,4 @@ Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), a
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Twitter</a>
 
-<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--twitter">Get This Theme</a>
+<a href="https://twitter.com/halfd0rk" class="button button--twitter">Twitter</a>
