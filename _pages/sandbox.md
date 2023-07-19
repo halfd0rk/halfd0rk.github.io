@@ -1,7 +1,7 @@
 ---
-title: About me
-subtitle: Who is this dork?
-description: Learn more about Halfd0rk.
+title: Links
+subtitle: Halfd0rk's Socials
+description: Find my content across the internet.
 featured_image: /images/demo/about.jpg
 ---
 

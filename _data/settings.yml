@@ -12,12 +12,12 @@ menu_settings:
       url: '/'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'The Sandbox'
-      url: '/about'
+    - title: 'Sandbox'
+      url: '/sandbox'
     - title: 'Links'
       url: '/links'
-    - title: 'About'
-      url: '/contact'
+    - title: 'Info'
+      url: '/info'
 
 footer_settings:
   footer_tagline: A sleek, modern Jekyll theme for personal websites.
