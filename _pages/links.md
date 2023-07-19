@@ -9,9 +9,6 @@ featured_image: /images/demo/about.jpg
 
 We've packed Personal full of powerful features to help showcase your work:
 
-<a href="https://twitter.com/halfd0rk" class="button button--large";>Twitter</a>
-
-<a href="https://www.twitch.tv/halfd0rk" class="button button--large";>Twitch</a>
 * link
 * link
 * link
@@ -26,3 +23,7 @@ We've packed Personal full of powerful features to help showcase your work:
 Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
+
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Twitter</a>
+
+<a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--twitter">Get This Theme</a>
