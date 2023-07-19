@@ -24,6 +24,6 @@ Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), a
 
 <a href="https://jekyllthemes.io/theme/personal-website-jekyll-theme" class="button button--large">Get This Theme</a>
 
-<a href="https://www.twitch.tv/halfd0rk" class="button button--large">Twitch</a>
+<a href="https://www.twitch.tv/halfd0rk" class="button button--twitch">Twitch</a>
 
 <a href="https://twitter.com/halfd0rk" class="button button--twitter">Twitter</a>

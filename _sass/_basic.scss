@@ -297,7 +297,7 @@ a {
 	color: $text-dark-color;
 
 	&:hover {
-		background: #70A12B !important;
+		background: $accent-color !important;
 		border-color: #70A12B !important;
 		color: $background-color;
 	}
