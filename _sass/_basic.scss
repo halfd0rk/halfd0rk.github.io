@@ -270,11 +270,30 @@ a {
 	}
 }
 
+.button--discord {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #5d6feb !important;
+	border-color: #5d6feb !important;
+	color: $background-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
 .button--facebook {
 	padding: 15px 20px 16px;
 	font-size: 13px;
-	background: #227cf0 !important;
-	border-color: #227cf0 !important;
+	background: #6daaf4 !important;
+	border-color: #6daaf4 !important;
 	color: $background-color !important;
 
 	&:hover {
@@ -327,12 +346,12 @@ a {
 	}
 }
 
-.button--discord {
+.button--threads {
 	padding: 15px 20px 16px;
 	font-size: 13px;
-	background: #5d6feb !important;
-	border-color: #5d6feb !important;
-	color: $background-color !important;
+	background: $background-color !important;
+	border-color: #1F2421 !important;
+	color: #1F2421 !important;
 
 	&:hover {
 		background: $accent-color !important;
@@ -345,6 +364,7 @@ a {
 		font-size: 17px;
 	}
 }
+
 .button--tiktok {
 	padding: 15px 20px 16px;
 	font-size: 13px;
@@ -369,7 +389,7 @@ a {
 	font-size: 13px;
 	background: #a233ff !important;
 	border-color: #a233ff !important;
-	color: $text-dark-color;
+	color: $background-color !important;
 
 	&:hover {
 		background: $accent-color !important;
@@ -407,7 +427,7 @@ a {
 	font-size: 13px;
 	background: #d30000 !important;
 	border-color: #d30000 !important;
-	color: $text-dark-color;
+	color: $background-color !important;
 
 	&:hover {
 		background: $accent-color !important;
