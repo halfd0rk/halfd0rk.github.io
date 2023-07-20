@@ -28,7 +28,9 @@ Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), a
 <a href="https://twitter.com/halfd0rk" class="button button--facebook">Facebook</a>
 <a href="https://twitter.com/halfd0rk" class="button button--instagram">Instagram</a>
 <a href="https://twitter.com/halfd0rk" class="button button--patreon">Patreon</a>
+<a href="https://twitter.com/halfd0rk" class="button button--threads">Threads</a>
 <a href="https://twitter.com/halfd0rk" class="button button--tiktok">Tiktok</a>
 <a href="https://www.twitch.tv/halfd0rk" class="button button--twitch">Twitch</a>
 <a href="https://twitter.com/halfd0rk" class="button button--twitter">Twitter</a>
 <a href="https://twitter.com/halfd0rk" class="button button--youtube">YouTube</a>
+<a href="https://twitter.com/halfd0rk" class="button button--facebook">TSB Tutorials</a>
