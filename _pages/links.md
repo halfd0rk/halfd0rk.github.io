@@ -33,4 +33,4 @@ Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), a
 <a href="https://www.twitch.tv/halfd0rk" class="button button--twitch">Twitch</a>
 <a href="https://twitter.com/halfd0rk" class="button button--twitter">Twitter</a>
 <a href="https://twitter.com/halfd0rk" class="button button--youtube">YouTube</a>
-<a href="https://twitter.com/halfd0rk" class="button button--facebook">TSB Tutorials</a>
+<a href="https://twitter.com/halfd0rk" class="button button--sandbox">TSB Tutorials</a>

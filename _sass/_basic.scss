@@ -332,7 +332,26 @@ a {
 	font-size: 13px;
 	background: #ff6d5a !important;
 	border-color: #ff6d5a !important;
-	color: $text-dark-color;
+	color: $text-dark-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--sandbox {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #3bbff0 !important;
+	border-color: #3bbff0 !important;
+	color: $background-color !important;
 
 	&:hover {
 		background: $accent-color !important;
@@ -349,9 +368,9 @@ a {
 .button--threads {
 	padding: 15px 20px 16px;
 	font-size: 13px;
-	background: $background-color !important;
-	border-color: #1F2421 !important;
-	color: #1F2421 !important;
+	background: #989898 !important;
+	border-color: #989898 !important;
+	color: $background-color !important;
 
 	&:hover {
 		background: $accent-color !important;
