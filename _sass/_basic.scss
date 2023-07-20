@@ -327,12 +327,50 @@ a {
 	}
 }
 
+.button--kofi {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #91cb3e !important;
+	border-color: #91cb3e !important;
+	color: $text-dark-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
 .button--patreon {
 	padding: 15px 20px 16px;
 	font-size: 13px;
 	background: #ff6d5a !important;
 	border-color: #ff6d5a !important;
 	color: $text-dark-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
+.button--reddit {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #ff4500 !important;
+	border-color: #ff4500 !important;
+	color: $background-color !important;
 
 	&:hover {
 		background: $accent-color !important;
@@ -365,6 +403,24 @@ a {
 	}
 }
 
+.button--telegram {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #26a4e2 !important;
+	border-color: #26a4e2 !important;
+	color: $background-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
 .button--threads {
 	padding: 15px 20px 16px;
 	font-size: 13px;
