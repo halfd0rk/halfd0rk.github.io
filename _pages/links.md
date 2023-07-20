@@ -27,6 +27,7 @@ Personal is created and supported by [Jekyll Themes](https://jekyllthemes.io), a
 <a href="https://twitter.com/halfd0rk" class="button button--discord">Discord</a>
 <a href="https://twitter.com/halfd0rk" class="button button--facebook">Facebook</a>
 <a href="https://twitter.com/halfd0rk" class="button button--instagram">Instagram</a>
+<a href="https://twitter.com/halfd0rk" class="button button--large">Ko-fi</a>
 <a href="https://twitter.com/halfd0rk" class="button button--patreon">Patreon</a>
 <a href="https://twitter.com/halfd0rk" class="button button--threads">Threads</a>
 <a href="https://twitter.com/halfd0rk" class="button button--tiktok">Tiktok</a>
