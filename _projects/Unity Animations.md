@@ -1,5 +1,6 @@
 ---
-title: 'Gamer 2 Gamedev'
+title: 'Unity Animations'
+subtitle: 'Creating animations in HDRP'
 date: 2023-07-22 00:17:30
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
@@ -12,13 +13,6 @@ featured_image: '/images/demo/demo-square.jpg'
 This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
-
-<a href="https://www.amazon.com/Art-Business-Online-Writing-Capturing-ebook/dp/B08GZK274F?keywords=online+business+writing&qid=1689707531&sr=8-3&linkCode=li2&tag=halfd0rk-20&linkId=bf4c0c9500a07ad40c644e3603138b1b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08GZK274F&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=halfd0rk-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=halfd0rk-20&language=en_US&l=li2&o=1&a=B08GZK274F" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-check out this mouse I've been using! <a target="_blank" href="https://www.amazon.com/gp/product/B0BGJT87N2/?&_encoding=UTF8&tag=halfd0rk-20&linkCode=ur2&linkId=ff5ca9430dbbd176c8094deb67536d86&camp=1789&creative=9325">RAZER Hotkey Mouse</a>
-
-here's the book i've been going page by page, it's been a real learning experience.
-<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=halfd0rk-20&language=en_US&marketplace=amazon&region=US&placement=1803236914&asins=1803236914&linkId=c838193d13a19ee9a304b1e2838f4c37&show_border=true&link_opens_in_new_window=true"></iframe>
 
 **Obviously,** we’ve styled up *all the basic* text formatting options [available in markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 

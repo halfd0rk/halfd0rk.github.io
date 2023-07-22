@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'In The Sandbox'
+subtitle: 'Building with Voxels'
+date: 2023-07-22 00:17:30
+description: This is a detailed project page about my most recent Sandbox experiences.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
@@ -18,9 +18,9 @@ We've included everything you need to create engaging posts about your work, and
 
 You can create lists:
 
-* Simple bulleted lists
-* Like this one
-* Are cool
+* E0N
+* Dork's Tavern
+* 0xSeeker
 
 And:
 

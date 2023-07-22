@@ -1,7 +1,7 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
+title: 'Unity Game Development'
+subtitle: 'I'm making games with Unity, here's my progress.'
+date: 2023-07-22 00:17:40
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
 ---
