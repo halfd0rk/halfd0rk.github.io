@@ -2,7 +2,7 @@
 title: 'In The Sandbox'
 subtitle: 'Building with Voxels'
 date: 2023-07-22 00:17:30
-description: This is a detailed project page about my most recent Sandbox experiences.
+description: Through 2022 I had an amazing time building interactive experiences in this voxel-made metaverse. Let's take a look at that past adventure in my career.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
