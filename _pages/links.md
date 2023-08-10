@@ -20,7 +20,7 @@ featured_image: /images/demo/about.jpg
 <a href="https://www.patreon.com/halfd0rk" class="button button--patreon">💌 Patreon</a>
 <a href="https://ko-fi.com/halfd0rk" class="button button--kofi">☕ Ko-fi</a>
 
-### Others
+##### Less Active
 <a href="https://www.facebook.com/profile.php?id=100090145293991" class="button button--facebook">🤓 Facebook</a>
 <a href="https://www.instagram.com/halfd0rk/" class="button button--instagram">📷 Instagram</a>
 <a href="https://www.reddit.com/r/halfd0rk/" class="button button--reddit">🤖 Reddit</a>

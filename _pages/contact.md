@@ -9,4 +9,4 @@ featured_image: /images/demo/contact.jpg
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+Use this [Formspree](https://formspree.io/create/jekyllthemes) to contact me with any business or general inquiries. You can also catch me LIVE on <a href="https://www.twitch.tv/halfd0rk" class="button button--twitch">📺 Twitch</a>, Monday through Friday at 10am EST. 

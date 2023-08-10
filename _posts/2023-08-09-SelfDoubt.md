@@ -10,9 +10,9 @@ featured_image: '/images/demo/demo-square.jpg'
 # What is Doubt?
 
 Doubt is that back-of-the-mind voice telling you..
-"You're not good enough."
-	"No one is going to like this."
-		"Why are you even trying?"
+>"You're not good enough.
+>>	"No one is going to like this."
+>>>		"Why are you even trying?"
 
 I'm here to tell you those are all lies.
 Everything you do is enough.
