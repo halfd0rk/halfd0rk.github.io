@@ -1,8 +1,8 @@
 ---
-title: 'Unity Game Dev'
-subtitle: 'Creating games in URP'
+title: 'Dungeons & Dragons'
+subtitle: 'Creating interactive stories with friends.'
 date: 2023-07-22 00:17:40
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Let's take a look into dungeons & dragons and what makes it so special.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
