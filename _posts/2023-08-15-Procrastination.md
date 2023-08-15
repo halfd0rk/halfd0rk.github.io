@@ -1,35 +1,38 @@
 ---
-title: 'Demo2 Post'
-date: 2023-07-18 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'Procrastination'
+date: 2023-08-15 00:00:00
+description: If you're a procrastinator, read on for how to get better at doing the things that matter.
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
 ![](/images/demo/demo-landscape.jpg)
 
-## Demo2 content
+# Procrastination
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+## What is it?
 
-We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
+Procrastination is a natural form of distraction.
+Those of us whom dabble in the art of procrastination can atest to this.
+Each and every time we need to do a task, we wait. Hours, days, weeks, months... years? 
+It'll get done eventually, right?
 
-check out this mouse I've been using! <a target="_blank" href="https://www.amazon.com/gp/product/B0BGJT87N2/?&_encoding=UTF8&tag=halfd0rk-20&linkCode=ur2&linkId=ff5ca9430dbbd176c8094deb67536d86&camp=1789&creative=9325">RAZER Hotkey Mouse</a>
+In truth, it will get done. Often after a stint(s) of prolonged, highly unneccessary delay. 
+We avoid this task like we owe it money. 
+The task is swept under a rug, just out of sight of conscious thought.
+More often than not they're joined by more tasks as time drags on.
 
-here i go adding a youtube video.
+This is procrastination; an avoidance of the inevitable. 
 
 
-<iframe src="https://www.youtube.com/embed/SgauD-Dzhbc" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+## Why do we procrastinate?
+Here's some science behind this behavior of avoiding our to-dos.
 
-
-
-here's the book i've been going page by page, it's been a real learning experience.
-<br>
-![](https://m.media-amazon.com/images/I/41nf5kglD7L._SY346_.jpg){: style="float:left" }
-
-## test header
-text[^1]
-text
-text
+### Book Title 1
+amazon affiliate links to the book.
+- Excerpt 1
+> “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.”
+>> Maybe a 2nd blockquote too?
+- Excerpt 2
 
 <br>
 
