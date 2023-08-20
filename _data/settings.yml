@@ -67,10 +67,10 @@ color_settings:
   text_dark_color: '#1F2421'
   text_medium_color: '#345830'
   text_light_color: '#94A89A'
-  accent_color: '#65af22'
+  accent_color: '#70a12b'
   border_color: '#D64541'
   hero_background_color: '#191A19'
-  hero_text_color: '#65af22'
+  hero_text_color: '#91cb3e'
   error_color: '#D64541'
 
 font_settings:
