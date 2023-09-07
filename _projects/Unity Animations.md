@@ -1,6 +1,6 @@
 ---
 title: 'Unity Animations'
-subtitle: 'Creating animations in HDRP'
+subtitle: 'Creating animations in HDRP on <a href="https://www.youtube.com/@halfd0rk?sub_confirmation=1" class="button button--youtube">📺 YouTube</a>'
 date: 2023-07-22 00:17:50
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/demo/demo-square.jpg'
