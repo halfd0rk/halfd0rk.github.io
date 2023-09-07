@@ -10,7 +10,7 @@ featured_image: '/images/demo/demo-square.jpg'
 
 ## Demo content
 
-This page is a demo that shows everything you can do inside portfolio and blog posts.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bdHH8TC6ugo?si=SX1jzM4VGjFo_XLv&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
