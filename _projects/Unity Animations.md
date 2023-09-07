@@ -6,11 +6,12 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/demo/demo-square.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+<a href="https://www.youtube.com/@halfd0rk?sub_confirmation=1" class="button button--youtube">📺 YouTube</a>
 
 ## Demo content
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bdHH8TC6ugo?si=SX1jzM4VGjFo_XLv&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bdHH8TC6ugo?si=SX1jzM4VGjFo_XLv" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
