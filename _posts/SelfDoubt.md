@@ -1,6 +1,6 @@
 ---
 title: 'Self-Doubt'
-date: 2023-07-22 00:17:30
+date: 2023-09-07 00:17:30
 description: Let's talk about all those reasons why you **can't** do something...
 featured_image: '/images/demo/demo-square.jpg'
 ---

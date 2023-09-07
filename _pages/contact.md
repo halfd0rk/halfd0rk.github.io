@@ -9,4 +9,6 @@ featured_image: /images/demo/contact.jpg
 
 {% include contact-form.html %}
 
- You can also catch me LIVE on <a href="https://www.twitch.tv/halfd0rk" class="button button--twitch">📺 Twitch</a>, Monday through Friday at 10am EST. 
+ You can also catch me LIVE on <a href="https://www.youtube.com/@halfd0rk?sub_confirmation=1" class="button button--youtube">📺 YouTube</a>, Monday through Friday at 10am EST. 
+
+ 

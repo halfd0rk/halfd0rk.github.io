@@ -1,7 +1,7 @@
 ---
 title: 'The Sandbox'
 subtitle: 'Building with Voxels'
-date: 2023-07-22 00:17:30
+date: 2023-01-01 00:00:00
 description: Throughout 2022 I built interactive experiences in this voxel-made metaverse. Let's take a look at this recent chapter of my career.
 featured_image: '/images/demo/demo-square.jpg'
 ---
