@@ -16,5 +16,6 @@ Blender:
 - Created and exported frame-by-frame AI animation as a test.
 
 Other:
+- Taught myself
 - Transitioned from a self-hosted DigitalOcean server for my Dungeons & Dragons games to the popular forge-vtt.com
 - Setup a server using a DigitalOcean droplet and Firefly-III to track my finances.
