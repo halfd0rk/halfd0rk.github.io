@@ -16,9 +16,9 @@ featured_image: /images/demo/about.jpg
 <a href="https://www.sandbox.game/en/users/halfd0rk/0d54ba22-f2ff-44e8-8947-e7eb85cd3349/?tab=Experiences" class="button button--sandbox">🎮 My Sandbox</a>-->
 
 ### Want to support me?
+<a href="https://shop.halfd0rk.com/" class="button button--shop">👜 Shop</a>
 <a href="https://ko-fi.com/halfd0rk" class="button button--kofi">☕ Ko-fi</a>
 <a href="https://www.patreon.com/halfd0rk" class="button button--patreon">💌 Patreon</a>
-<a href="https://shop.halfd0rk.com/" class="button button--shop">👜 Shop</a>
 
 ##### Less Active
 <a href="https://www.facebook.com/profile.php?id=100090145293991" class="button button--facebook">🤓 Facebook</a>
