@@ -403,6 +403,25 @@ a {
 	}
 }
 
+.button--shop {
+	padding: 15px 20px 16px;
+	font-size: 13px;
+	background: #91cb3e !important;
+	border-color: #91cb3e !important;
+	color: $text-dark-color !important;
+
+	&:hover {
+		background: $accent-color !important;
+		border-color: $accent-color !important;
+		color: $background-color;
+	}
+
+	@include mq(tabletp) {
+		padding: 19px 40px 20px;
+		font-size: 17px;
+	}
+}
+
 .button--telegram {
 	padding: 15px 20px 16px;
 	font-size: 13px;
