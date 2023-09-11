@@ -1,6 +1,6 @@
 ---
 title: 'Self-Doubt'
-date: 2023-09-07 00:17:30
+date: 2023-09-10 00:17:30
 description: Let's talk about all those reasons why you **can't** do something...
 featured_image: '/images/demo/demo-square.jpg'
 ---
@@ -12,7 +12,7 @@ featured_image: '/images/demo/demo-square.jpg'
 Doubt is that back-of-the-mind voice telling you..
 >"You're not good enough.
 >>	"No one is going to like this."
->>>		"Why are you even trying?"
+>>	"Why are you even trying?"
 
 I'm here to tell you those are all lies.
 Everything you do is enough.
