@@ -14,6 +14,7 @@ Unity:
 - Incorporated a workflow of imported characters with highly customizable faces. (CC4)
 - HDRP Ocean system up and running.
 
+<iframe id="Mantis" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered width="970" height="700" src="https://actorcore.reallusion.com/Player/player.html?mainid=ATC5gv3giqcn6nmedb4i1&playbar=0&control=0&titlebar=1&bg_transparent=1&pan=0&zoom=0&rotate=1"></iframe>
 
 Blender:
 - Bone Rigging for a giant serpent "Uk'otoa" with animations.
