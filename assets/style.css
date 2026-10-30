@@ -223,3 +223,6 @@ main { flex: 1; }
 .prose strong { color: var(--text); }
 .prose ul { padding-left: 1.2em; }
 .prose li { margin-bottom: 6px; }
+.wrap.prose { max-width: 1040px; }
+.wrap.prose > * { max-width: 720px; }
+.wrap.prose > h2:first-child { font-size: 1.6rem; margin-bottom: 16px; }
