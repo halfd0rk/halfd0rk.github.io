@@ -1,68 +1,58 @@
----
-layout: default
-title: Blog
-description: Here's what I've been working on.
-featured_image: /images/demo/blog.jpg
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="/assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="/assets/style.css">
+  <title>Blog | Half Dork Studios</title>
+  <meta name="description" content="The Half Dork Studios blog is coming soon.">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/"><img src="/assets/favicon.png" alt=""><span class="logo-text">half<span>dork</span></span></a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/blog/" aria-current="page">Blog</a>
+        <a class="nav-extra" href="/#newsletter">Newsletter</a>
+      </nav>
+    </div>
+  </header>
 
-<section class="hero hero--single">
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <span class="badge">Blog</span>
+        <h1>Posts are <em>coming soon</em>.</h1>
+        <p class="lede">Devlogs, behind-the-scenes notes and project updates will live here. Join the newsletter and we'll tell you when the first one is up.</p>
+      </div>
+    </section>
 
-	<div class="hero__image" style="background-image: url({{page.featured_image|relative_url}})">
-		<div class="hero__overlay"></div>
-	</div>
+    <section class="section" id="newsletter">
+      <div class="wrap">
+        <h2>Get notified</h2>
+        <p class="sub">One email when the blog goes live. No spam.</p>
+        <form class="signup" novalidate>
+          <label class="visually-hidden" for="email-blog">Email address</label>
+          <input id="email-blog" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+          <button class="btn" type="submit">Notify me</button>
+        </form>
+        <p class="form-note" role="status"></p>
+      </div>
+    </section>
+  </main>
 
-	<div class="wrap">
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>&copy; <span data-year>2026</span> Half Dork Studios</span>
+      <span>halfdork.com</span>
+    </div>
+  </footer>
 
-		<h1>A d0rk's blog</h1>
-		<p>Here's what the d0rk's been working on.</p>
-
-	</div>
-
-</section>
-
-<section class="listing">
-
-	<div class="wrap">
-
-		{% for post in paginator.posts %}
-
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{post.featured_image|relative_url}})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-					<p class="post__subtitle">{{ post.subtitle }}</p>
-					<p class="post__description">{{ post.description }}</p>
-				</div>
-			</div>
-
-		</article>
-
-		{% endfor %}
-
-	</div>
-
-</section>
-
-{% if paginator.total_pages > 1 %}
-
-<section class="pagination">
-
-	<div class="wrap">
-
-		{% if paginator.previous_page %}
-		<a href="{{ paginator.previous_page_path | relative_url }}" class="button pagination__prev"><i class="fa fa-arrow-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-		{% endif %}
-		{% if paginator.next_page %}
-		<a href="{{ paginator.next_page_path | relative_url }}" class="button pagination__next"><span>Older Posts</span> <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-		{% endif %}
-
-	</div>
-
-</section>
-
-{% endif %}
+  <script src="/assets/site.js"></script>
+</body>
+</html>

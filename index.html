@@ -1,61 +1,87 @@
----
-layout: default
-title: The home of halfd0rk. Discover who is halfd0rk.
-description: Halfd0rk's personal blog and project repository. You'll find my works in progress as well as a catalog of my games and videos.
-featured_image: /images/demo/animatedtest.gif
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="/assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="/assets/style.css">
+  <title>Half Dork Studios</title>
+  <meta name="description" content="Half Dork Studios is cooking up something new. Coming soon to halfdork.com.">
+  <meta property="og:title" content="Half Dork Studios: coming soon">
+  <meta property="og:description" content="Something new is on the way. Get notified when it lands.">
+  <meta property="og:url" content="https://halfdork.com/">
+  <meta property="og:type" content="website">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/"><img src="/assets/favicon.png" alt=""><span class="logo-text">half<span>dork</span></span></a>
+      <nav class="nav">
+        <a href="/" aria-current="page">Home</a>
+        <a href="/blog/">Blog</a>
+        <a class="nav-extra" href="/#newsletter">Newsletter</a>
+      </nav>
+    </div>
+  </header>
 
-<section class="hero">
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <span class="badge">Coming soon</span>
+        <h1>Something <em>half&#8209;baked</em> is on the way.</h1>
+        <p class="lede">Half Dork Studios is building a new home for our games, videos and works in progress. The full site is still in the oven.</p>
+      </div>
+    </section>
 
-	<div class="hero__image" style="background-image: url({{ page.featured_image | relative_url }})">
-		<div class="hero__overlay"></div>
-	</div>
+    <section class="section" id="newsletter">
+      <div class="wrap">
+        <h2>Get the newsletter</h2>
+        <p class="sub">Be the first to know when we launch, plus devlogs and behind-the-scenes updates.</p>
+        <form class="signup" novalidate>
+          <label class="visually-hidden" for="email-home">Email address</label>
+          <input id="email-home" type="email" name="email" placeholder="you@example.com" autocomplete="email" required>
+          <button class="btn" type="submit">Notify me</button>
+        </form>
+        <p class="form-note" role="status"></p>
+      </div>
+    </section>
 
-	<div class="wrap">
+    <section class="section" id="blog">
+      <div class="wrap">
+        <h2>From the blog</h2>
+        <p class="sub">Devlogs and notes are coming. Here's a peek at what's planned.</p>
+        <div class="cards">
+          <article class="card placeholder">
+            <div class="meta">Devlog</div>
+            <h3>First post coming soon</h3>
+            <p>What we're making and why.</p>
+          </article>
+          <article class="card placeholder">
+            <div class="meta">Behind the scenes</div>
+            <h3>Coming soon</h3>
+            <p>Tools, process and the occasional disaster.</p>
+          </article>
+          <article class="card placeholder">
+            <div class="meta">Updates</div>
+            <h3>Coming soon</h3>
+            <p>News on projects as they take shape.</p>
+          </article>
+        </div>
+        <p class="sub" style="margin-top:24px"><a href="/blog/">Visit the blog &rarr;</a></p>
+      </div>
+    </section>
+  </main>
 
-		<h1>The home of Halfd0rk.
-			Discover what drives me.</h1>
-		<p>Halfd0rk's personal blog and project repository. You'll find my works in progress as well as a catalog of my games and videos.</p>
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>&copy; <span data-year>2026</span> Half Dork Studios</span>
+      <span>halfdork.com</span>
+    </div>
+  </footer>
 
-		{% include socials.html %}
-		
-	</div>
-
-</section>
-
-<section class="listing">
-
-	<div class="wrap">
-
-		{% for project in site.projects reversed %}
-
-		<article class="post">
-
-			<div class="post__image-wrap">
-				<div class="post__image" style="background-image: url({{ project.featured_image | relative_url }})"></div>
-			</div>
-
-			<div class="post__content-wrap">
-				<div class="post__content">
-					<h2 class="post__title"><a href="{{ project.url | relative_url }}">{{ project.title }}</a></h2>
-					<p class="post__subtitle">{{ project.subtitle }}</p>
-					<p class="post__description">{{ project.description }}</p>
-				</div>
-			</div>
-
-		</article>
-
-		{% endfor %}
-
-	</div>
-
-</section>
-<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
-<script>
-  kofiWidgetOverlay.draw('halfd0rk', {
-    'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Support Me',
-    'floating-chat.donateButton.background-color': '#91cb3e',
-    'floating-chat.donateButton.text-color': '#000000'
-  });
-</script>
+  <script src="/assets/site.js"></script>
+</body>
+</html>

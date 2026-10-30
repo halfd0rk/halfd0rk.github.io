@@ -1,23 +1,45 @@
----
-layout: default
-title: Page Not Found
-description: Sorry – the page your looking for doesn't exist.
-featured_image: /images/demo/about.jpg
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="/assets/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="/assets/style.css">
+  <title>Not found | Half Dork Studios</title>
+  <meta name="robots" content="noindex">
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <a class="logo" href="/"><img src="/assets/favicon.png" alt=""><span class="logo-text">half<span>dork</span></span></a>
+      <nav class="nav">
+        <a href="/">Home</a>
+        <a href="/blog/">Blog</a>
+        <a class="nav-extra" href="/#newsletter">Newsletter</a>
+      </nav>
+    </div>
+  </header>
 
-<section class="hero">
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <span class="badge">404</span>
+        <h1>This page is <em>not baked</em> yet.</h1>
+        <p class="lede">It may not exist, or it may just not exist yet. <a href="/">Head back home</a>.</p>
+      </div>
+    </section>
+  </main>
 
-	<div class="hero__image" style="background-image: url({{ page.featured_image }})">
-		<div class="hero__overlay"></div>
-	</div>
+  <footer class="site-footer">
+    <div class="wrap">
+      <span>&copy; <span data-year>2026</span> Half Dork Studios</span>
+      <span>halfdork.com</span>
+    </div>
+  </footer>
 
-	<div class="wrap">
-
-		<h1>Page not found.</h1>
-		<p class="hero__text editable">Sorry – the page your looking for doesn't exist.</p>
-		<p class="hero__text editable">Perhaps you typed the URL incorrectly, or it may have moved.</p>
-		<p><a href="/" class="button button--large">Back To Home</a></p>
-
-	</div>
-
-</section>
+  <script src="/assets/site.js"></script>
+</body>
+</html>
