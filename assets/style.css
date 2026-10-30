@@ -209,3 +209,20 @@ main { flex: 1; }
   clip: rect(0 0 0 0);
   white-space: nowrap;
 }
+
+.footer-links { display: flex; gap: 18px; }
+.footer-links a { color: var(--muted); text-decoration: none; }
+.footer-links a:hover { color: var(--text); }
+
+/* Long-form pages (privacy, terms) */
+.hero--compact { padding: 56px 0 32px; }
+.prose { max-width: 720px; }
+.prose h2 { margin: 36px 0 10px; font-size: 1.25rem; }
+.prose h2:first-child { margin-top: 0; }
+.prose p, .prose li { color: var(--muted); }
+.prose strong { color: var(--text); }
+.prose ul { padding-left: 1.2em; }
+.prose li { margin-bottom: 6px; }
+.wrap.prose { max-width: 1040px; }
+.wrap.prose > * { max-width: 720px; }
+.wrap.prose > h2:first-child { font-size: 1.6rem; margin-bottom: 16px; }
